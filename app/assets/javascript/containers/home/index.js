@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { browserHistory } from 'react-router';
 
-const homeContainer = React.createClass({
+
+class homeContainer extends Component {
   render() {
     return (
       <div className="container">
@@ -26,7 +27,7 @@ const homeContainer = React.createClass({
         {this.props.children}
       </div>
     );
-  },
-});
+  }
+}
 
 export default homeContainer;
