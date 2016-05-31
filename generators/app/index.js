@@ -6,7 +6,7 @@ var yosay = require('yosay');
 module.exports = yeoman.Base.extend({
   prompting: function () {
     this.log(yosay(
-      'Welcome to the legendary ' + chalk.red('generator-react-app-boilerplate') + ' generator!'
+      'Welcome to the ' + chalk.red('generator-react-app-boilerplate') + ' generator!'
     ));
 
     var prompts = [{
