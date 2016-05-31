@@ -16,9 +16,9 @@
   "scripts": {
     "clean": "rimraf build",
     "lint": "eslint app",
-    "start": "npm run lint && node server.js",
+    "start": "npm run build && node server.js",
     "start:devtools": "npm run build && DEVTOOLS=true node server.js",
-    "build": "rimraf build && npm run lint && webpack --config ./configs/web-pack/webpack.dev.config.js --progress --profile --colors",
+    "build": "rimraf build &&  webpack --config ./configs/web-pack/webpack.dev.config.js --progress --profile --colors",
     "build:production": "rimraf build && webpack --config ./configs/web-pack/webpack.production.config.js --progress --profile --colors",
     "deploy": "npm run build:production && node ./configs/deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
