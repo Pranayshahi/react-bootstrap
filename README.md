@@ -25,14 +25,14 @@ yo react-app-boilerplate
 
 ## License
 
-MIT © [Ajay Yadav](https://github.com/ajaykumaryadav)
+MIT © [Ajay Yadav](https://github.com/ajayy004)
 
 
 [npm-image]: https://badge.fury.io/js/generator-react-app-boilerplate.svg
 [npm-url]: https://npmjs.org/package/generator-react-app-boilerplate
-[travis-image]: https://travis-ci.org/ajaykumaryadav/generator-react-app-boilerplate.svg?branch=master
-[travis-url]: https://travis-ci.org/ajaykumaryadav/generator-react-app-boilerplate
-[daviddm-image]: https://david-dm.org/ajaykumaryadav/generator-react-app-boilerplate.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ajaykumaryadav/generator-react-app-boilerplate
-[coveralls-image]: https://coveralls.io/repos/ajaykumaryadav/generator-react-app-boilerplate/badge.svg
-[coveralls-url]: https://coveralls.io/r/ajaykumaryadav/generator-react-app-boilerplate
+[travis-image]: https://travis-ci.org/ajayy004/generator-react-app-boilerplate.svg?branch=master
+[travis-url]: https://travis-ci.org/ajayy004/generator-react-app-boilerplate
+[daviddm-image]: https://david-dm.org/ajayy004/generator-react-app-boilerplate.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/ajayy004/generator-react-app-boilerplate
+[coveralls-image]: https://coveralls.io/repos/ajayy004/generator-react-app-boilerplate/badge.svg
+[coveralls-url]: https://coveralls.io/r/ajayy004/generator-react-app-boilerplate
